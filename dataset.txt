@@ -1,0 +1,42 @@
+questions = {
+    "What is the full form of IT?": {
+        "choices": ["Information Technology", "Intelligence Technology", "Internet Technology", "Intelligent Technology"],
+        "answer": "Information Technology"
+    },
+    "What is the purpose of a computer network?": {
+        "choices": ["To connect computers together", "To share resources", "To provide access to the internet", "All of the above"],
+        "answer": "All of the above"
+    },
+    "What is the difference between hardware and software?": {
+        "choices": ["Hardware is physical, software is intangible", "Hardware is used to perform tasks, software is used to control hardware", "Hardware is slow, software is fast", "Hardware is expensive, software is cheap"],
+        "answer": "Hardware is physical, software is intangible"
+    },
+    "What is the purpose of a firewall?": {
+        "choices": ["To protect a computer from unauthorized access", "To prevent viruses and malware from entering a computer", "To control the flow of traffic on a network", "All of the above"],
+        "answer": "All of the above"
+    },
+    "What is a web browser?": {
+        "choices": ["A software program that allows you to access the internet", "A hardware device that connects you to the internet", "A network of computers that share information", "A type of website"],
+        "answer": "A software program that allows you to access the internet"
+    },
+    "What is the difference between a website and a web page?": {
+        "choices": ["A website is a collection of web pages, a web page is a single document", "A website is a static document, a web page can be interactive", "A website is expensive to create, a web page is cheap to create", "A website is slow to load, a web page is fast to load"],
+        "answer": "A website is a collection of web pages, a web page is a single document"
+    },
+    "What is the purpose of a search engine?": {
+        "choices": ["To help you find information on the internet", "To organize and index information on the internet", "To sell products and services online", "None of the above"],
+        "answer": "To help you find information on the internet"
+    },
+    "What is the difference between email and instant messaging?": {
+        "choices": ["Email is synchronous, instant messaging is asynchronous", "Email is text-based, instant messaging can include audio and video", "Email is private, instant messaging is public", "Email is slow, instant messaging is fast"],
+        "answer": "Email is asynchronous, instant messaging is synchronous"
+    },
+    "What is the purpose of social media?": {
+        "choices": ["To connect with friends and family", "To share information and news", "To promote businesses and products", "All of the above"],
+        "answer": "All of the above"
+    },
+    "What is the future of IT?": {
+        "choices": ["Artificial intelligence", "Big data", "Cloud computing", "All of the above"],
+        "answer": "All of the above"
+    }
+}
