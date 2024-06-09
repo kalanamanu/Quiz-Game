@@ -19,7 +19,7 @@ This is a command-line based Quiz Game written in Python. It presents a series o
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/quiz-game.git
+    git@github.com:kalanamanu/Quiz-Game.git
     ```
 
 2. Navigate to the project directory:
